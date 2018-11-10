@@ -153,30 +153,27 @@ class TableInform:
 
                             # 将文件路径中空格给替换
                             folder_url = folder.replace(' ', "%20")
-                            # 拼贴出正确的路径
-                            folder_url = urljoin(folder_url, item)
                             # 加上github项目的目录,实现文件路径的生成
-                            folder_url = urljoin(Config.github_leetcode_url, folder_url)
+                            folder_url = urljoin(Config.github_leetcode_url, folder_url,item)
                             # folder[:3]为问题序号,问题id为1的时候,截出来的是001
                             # table_item[001]将会赋值为[编程语言]{文件路径},实现直接点击就可跳转
                             self.table_item[folder[:3]].python = '[Python]({})'.format(folder_url)
                         elif item.endswith('.java'):
                             complete_info.solved['java'] += 1
                             folder_url = folder.replace(' ', "%20")
-                            folder_url = urljoin(folder_url, item)
-                            folder_url = urljoin(Config.github_leetcode_url, folder_url)
+                            # folder_url = urljoin(folder_url, item)
+                            folder_url = urljoin(Config.github_leetcode_url, folder_url,item)
                             self.table_item[folder[:3]].java = '[Java]({})'.format(folder_url)
                         elif item.endswith('.cpp'):
                             complete_info.solved['c++'] += 1
                             folder_url = folder.replace(' ', "%20")
-                            folder_url = urljoin(folder_url, item)
-                            folder_url = urljoin(Config.github_leetcode_url, folder_url)
+                            # 加上github项目的目录,实现文件路径的生成
+                            folder_url = urljoin(Config.github_leetcode_url, folder_url,item)
                             self.table_item[folder[:3]].c_plus_plus = '[C++]({})'.format(folder_url)
                         elif item.endswith('.js'):
                             complete_info.solved['javascript'] += 1
                             folder_url = folder.replace(' ', "%20")
-                            folder_url = urljoin(folder_url, item)
-                            folder_url = urljoin(Config.github_leetcode_url, folder_url)
+                            folder_url = urljoin(Config.github_leetcode_url, folder_url,item)
                             self.table_item[folder[:3]].javascript = '[JavaScript]({})'.format(folder_url)
         readme = Readme(complete_info.total,
                         complete_info.complete_num,
