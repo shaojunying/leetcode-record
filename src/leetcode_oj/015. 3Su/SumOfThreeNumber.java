@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * Created by shao on 2018/11/10.
  */
-public class 三数之和 {
+public class SumOfThreeNumber {
 
     static class Solution {
         public List<List<Integer>> threeSum(int[] nums) {
