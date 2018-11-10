@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b23215cf-fb50-4661-a49f-2d8dafae4bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/readme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/015. 3Su/三数之和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/三数之和.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/设计哈希映射.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/设计哈希映射.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.py" beforeDir="false" afterPath="$PROJECT_DIR$/readme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/find_pivot_index.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode_oj/015. 3Su/三数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode_oj/015. 3Su/SumOfThreeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/z字形变换.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/加一.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/回文数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/最长回文字符串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/盛最多水的容器.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/至少是其他数字两倍的最大数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/计算两个有序数组的中位数.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +24,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/leetcode_record$readme.coverage" NAME="readme Coverage Results" MODIFIED="1541817655002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_record$readme.coverage" NAME="readme Coverage Results" MODIFIED="1541818343903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -77,7 +82,7 @@
           <entry key="gitignore" value="1" />
           <entry key="java" value="10" />
           <entry key="kt" value="1" />
-          <entry key="md" value="3" />
+          <entry key="md" value="5" />
           <entry key="py" value="2" />
           <entry key="sql" value="1" />
         </counts>
@@ -86,7 +91,7 @@
         <counts>
           <entry key="JAVA" value="10" />
           <entry key="Kotlin" value="1" />
-          <entry key="Markdown" value="3" />
+          <entry key="Markdown" value="5" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="2" />
           <entry key="Scratch" value="1" />
@@ -96,7 +101,7 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="java" value="2041" />
-          <entry key="py" value="306" />
+          <entry key="py" value="326" />
           <entry key="sql" value="38" />
           <entry key="txt" value="6" />
         </counts>
@@ -105,7 +110,7 @@
         <counts>
           <entry key="JAVA" value="2041" />
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="306" />
+          <entry key="Python" value="326" />
           <entry key="Scratch" value="38" />
         </counts>
       </usages-collector>
@@ -157,8 +162,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="165" selection-start-line="165" selection-end-line="165" />
+            <state relative-caret-position="304">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding>
                 <element signature="e#58#73#0" expanded="true" />
               </folding>
@@ -167,20 +172,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/ntpath.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="112" selection-start-line="112" selection-end-line="112" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="266">
-                <caret line="29" column="77" lean-forward="true" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-152">
+                <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -188,10 +184,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode_oj/015. 3Su/三数之和.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode_oj/015. 3Su/SumOfThreeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -213,6 +209,7 @@
       <find>requests.exceptions.SSLError: HTTPSConnectionPool</find>
       <find>req</find>
       <find>github_leetcode_url</find>
+      <find>java</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -233,8 +230,8 @@
         <option value="$PROJECT_DIR$/src/禁忌雷炎.java" />
         <option value="$PROJECT_DIR$/src/三数之和.java" />
         <option value="$PROJECT_DIR$/src/015. 3Su/三数.java" />
-        <option value="$PROJECT_DIR$/readme.py" />
         <option value="$PROJECT_DIR$/src/leetcode_oj/015. 3Su/三数之和.java" />
+        <option value="$PROJECT_DIR$/readme.py" />
       </list>
     </option>
   </component>
@@ -247,9 +244,9 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="277" />
+    <option name="y" value="200" />
     <option name="width" value="980" />
     <option name="height" value="1103" />
   </component>
@@ -289,12 +286,6 @@
               <item name="leetcode-record" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode-record" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode_oj" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -306,7 +297,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541817660598" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541818441752" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../xiaohu" />
@@ -335,19 +326,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="三数之和" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfThreeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfThreeNumber" />
+      <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -430,12 +421,12 @@
       <item itemvalue="Application.find_pivot_index" />
       <item itemvalue="Application.至少是其他数字两倍的最大数" />
       <item itemvalue="Python.readme" />
-      <item itemvalue="Application.三数之和" />
+      <item itemvalue="Application.SumOfThreeNumber" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.readme" />
-        <item itemvalue="Application.三数之和" />
+        <item itemvalue="Application.SumOfThreeNumber" />
         <item itemvalue="Application.至少是其他数字两倍的最大数" />
         <item itemvalue="Application.find_pivot_index" />
       </list>
@@ -458,12 +449,12 @@
       <workItem from="1539263635841" duration="790000" />
       <workItem from="1539648885501" duration="2317000" />
       <workItem from="1539681555307" duration="19000" />
-      <workItem from="1541746567949" duration="4752000" />
+      <workItem from="1541746567949" duration="5945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21619000" />
+    <option name="totallyTimeSpent" value="22812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -473,41 +464,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2191689" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.3299566" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.4081042" />
-      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.38205498" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32473445" />
-      <window_info active="true" anchor="bottom" id="Database Console" order="12" visible="true" weight="0.38644066" />
-      <window_info anchor="right" id="JSON Viewer" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
-      <window_info anchor="right" id="Database" order="5" weight="0.56514657" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2191689" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.33981234" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3299566" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
@@ -516,8 +473,42 @@
       <window_info anchor="bottom" id="Database Changes" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.4081042" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.39942113" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3212735" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.40376267" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32473445" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="13" visible="true" weight="0.38644066" />
+      <window_info anchor="right" id="JSON Viewer" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.56514657" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1494638" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3299566" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.4081042" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.40376267" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -541,23 +532,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/加一.java</url>
-          <line>9</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/readme.py</url>
-          <line>161</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
@@ -647,10 +621,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode_oj/015. 3Su/三数之和.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode_oj/015. 3Su/SumOfThreeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="112" selection-end-line="671" />
         </state>
       </provider>
     </entry>
@@ -661,27 +642,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="29" column="77" lean-forward="true" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="589">
+            <caret line="31" column="159" lean-forward="true" selection-start-line="31" selection-start-column="159" selection-end-line="31" selection-end-column="159" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/ntpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="112" selection-start-line="112" selection-end-line="112" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-152">
+            <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        <state relative-caret-position="304">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
           <folding>
             <element signature="e#58#73#0" expanded="true" />
           </folding>

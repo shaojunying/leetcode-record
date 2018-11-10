@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-11-10 01:10:11, I have solved **0** / **883** problems while **139** are still locked.
+Until 2018-11-10 10:52:35, I have solved **1** / **883** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 0
+4. Java: 1
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -27,7 +27,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|To Do|To Do|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|To Do|To Do|To Do|To Do|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|To Do|To Do|
-|015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/shaojunying/leetcode-record/tree/master/src/leetcode_oj\015.%203Su\SumOfThreeNumber.java)|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|To Do|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|To Do|

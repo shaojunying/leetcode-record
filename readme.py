@@ -14,7 +14,7 @@ class Config:
     ２．　github中的仓库leetcode解法的路径
     """
     # 本地存放项目的路径
-    local_path = r'C:\Users\shao\Documents\codingProject\leetcode-record\src'
+    local_path = r'C:\Users\shao\Documents\codingProject\leetcode-record'
     github_leetcode_url = 'https://github.com/shaojunying/leetcode-record/tree/master/src/leetcode_oj'
     leetcode_url = 'https://leetcode.com/problems/'
 
@@ -286,7 +286,7 @@ class Readme:
 
 def main():
     table = TableInform()
-    table.update_table('leetcode_oj')
+    table.update_table('src\leetcode_oj')
 
 
 if __name__ == '__main__':
