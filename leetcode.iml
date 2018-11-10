@@ -1,12 +1,900 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Python" name="Python">
+      <configuration sdkName="Python 3.7 (1)" />
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/001. Two Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/002. Add Two Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/003. Longest Substring Without Repeating Character" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/004. Median of Two Sorted Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/005. Longest Palindromic Substrin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/006. ZigZag Conversio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/007. Reverse Intege" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/008. String to Integer (atoi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/009. Palindrome Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/010. Regular Expression Matchin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/011. Container With Most Wate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/012. Integer to Roma" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/013. Roman to Intege" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/014. Longest Common Prefi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/015. 3Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/016. 3Sum Closes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/017. Letter Combinations of a Phone Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/018. 4Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/019. Remove Nth Node From End of Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/020. Valid Parenthese" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/021. Merge Two Sorted List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/022. Generate Parenthese" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/023. Merge k Sorted List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/024. Swap Nodes in Pair" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/025. Reverse Nodes in k-Grou" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/026. Remove Duplicates from Sorted Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/027. Remove Elemen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/028. Implement strStr(" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/029. Divide Two Integer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/030. Substring with Concatenation of All Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/031. Next Permutatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/032. Longest Valid Parenthese" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/033. Search in Rotated Sorted Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/034. Find First and Last Position of Element in Sorted Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/035. Search Insert Positio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/036. Valid Sudok" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/037. Sudoku Solve" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/038. Count and Sa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/039. Combination Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/040. Combination Sum I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/041. First Missing Positiv" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/042. Trapping Rain Wate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/043. Multiply String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/044. Wildcard Matchin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/045. Jump Game I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/046. Permutation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/047. Permutations I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/048. Rotate Imag" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/049. Group Anagram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/050. Pow(x, n" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/051. N-Queen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/052. N-Queens I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/053. Maximum Subarra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/054. Spiral Matri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/055. Jump Gam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/056. Merge Interval" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/057. Insert Interva" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/058. Length of Last Wor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/059. Spiral Matrix I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/060. Permutation Sequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/061. Rotate Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/062. Unique Path" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/063. Unique Paths I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/064. Minimum Path Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/065. Valid Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/066. Plus On" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/067. Add Binar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/068. Text Justificatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/069. Sqrt(x" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/070. Climbing Stair" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/071. Simplify Pat" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/072. Edit Distanc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/073. Set Matrix Zeroe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/074. Search a 2D Matri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/075. Sort Color" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/076. Minimum Window Substrin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/077. Combination" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/078. Subset" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/079. Word Searc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/080. Remove Duplicates from Sorted Array I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/081. Search in Rotated Sorted Array I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/082. Remove Duplicates from Sorted List I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/083. Remove Duplicates from Sorted Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/084. Largest Rectangle in Histogra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/085. Maximal Rectangl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/086. Partition Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/087. Scramble Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/088. Merge Sorted Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/089. Gray Cod" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/090. Subsets I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/091. Decode Way" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/092. Reverse Linked List I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/093. Restore IP Addresse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/094. Binary Tree Inorder Traversa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/095. Unique Binary Search Trees I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/096. Unique Binary Search Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/097. Interleaving Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/098. Validate Binary Search Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/099. Recover Binary Search Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/100. Same Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/101. Symmetric Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/102. Binary Tree Level Order Traversa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/103. Binary Tree Zigzag Level Order Traversa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/104. Maximum Depth of Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/105. Construct Binary Tree from Preorder and Inorder Traversa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/106. Construct Binary Tree from Inorder and Postorder Traversa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/107. Binary Tree Level Order Traversal I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/108. Convert Sorted Array to Binary Search Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/109. Convert Sorted List to Binary Search Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/110. Balanced Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/111. Minimum Depth of Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/112. Path Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/113. Path Sum I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/114. Flatten Binary Tree to Linked Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/115. Distinct Subsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/116. Populating Next Right Pointers in Each Nod" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/117. Populating Next Right Pointers in Each Node I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/118. Pascal's Triangl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/119. Pascal's Triangle I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/120. Triangl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/121. Best Time to Buy and Sell Stoc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/122. Best Time to Buy and Sell Stock I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/123. Best Time to Buy and Sell Stock II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/124. Binary Tree Maximum Path Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/125. Valid Palindrom" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/126. Word Ladder I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/127. Word Ladde" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/128. Longest Consecutive Sequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/129. Sum Root to Leaf Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/130. Surrounded Region" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/131. Palindrome Partitionin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/132. Palindrome Partitioning I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/133. Clone Grap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/134. Gas Statio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/135. Cand" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/136. Single Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/137. Single Number I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/138. Copy List with Random Pointe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/139. Word Brea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/140. Word Break I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/141. Linked List Cycl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/142. Linked List Cycle I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/143. Reorder Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/144. Binary Tree Preorder Traversa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/145. Binary Tree Postorder Traversa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/146. LRU Cach" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/147. Insertion Sort Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/148. Sort Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/149. Max Points on a Lin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/150. Evaluate Reverse Polish Notatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/151. Reverse Words in a Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/152. Maximum Product Subarra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/153. Find Minimum in Rotated Sorted Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/154. Find Minimum in Rotated Sorted Array I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/155. Min Stac" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/156. Binary Tree Upside Dow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/157. Read N Characters Given Read" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/158. Read N Characters Given Read4 II - Call multiple time" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/159. Longest Substring with At Most Two Distinct Character" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/160. Intersection of Two Linked List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/161. One Edit Distanc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/162. Find Peak Elemen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/163. Missing Range" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/164. Maximum Ga" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/165. Compare Version Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/166. Fraction to Recurring Decima" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/167. Two Sum II - Input array is sorte" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/168. Excel Sheet Column Titl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/169. Majority Elemen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/170. Two Sum III - Data structure desig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/171. Excel Sheet Column Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/172. Factorial Trailing Zeroe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/173. Binary Search Tree Iterato" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/174. Dungeon Gam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/179. Largest Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/186. Reverse Words in a String I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/187. Repeated DNA Sequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/188. Best Time to Buy and Sell Stock I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/189. Rotate Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/190. Reverse Bit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/191. Number of 1 Bit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/198. House Robbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/199. Binary Tree Right Side Vie" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/200. Number of Island" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/201. Bitwise AND of Numbers Rang" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/202. Happy Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/203. Remove Linked List Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/204. Count Prime" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/205. Isomorphic String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/206. Reverse Linked Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/207. Course Schedul" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/208. Implement Trie (Prefix Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/209. Minimum Size Subarray Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/210. Course Schedule I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/211. Add and Search Word - Data structure desig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/212. Word Search I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/213. House Robber I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/214. Shortest Palindrom" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/215. Kth Largest Element in an Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/216. Combination Sum II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/217. Contains Duplicat" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/218. The Skyline Proble" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/219. Contains Duplicate I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/220. Contains Duplicate II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/221. Maximal Squar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/222. Count Complete Tree Node" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/223. Rectangle Are" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/224. Basic Calculato" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/225. Implement Stack using Queue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/226. Invert Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/227. Basic Calculator I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/228. Summary Range" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/229. Majority Element I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/230. Kth Smallest Element in a BS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/231. Power of Tw" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/232. Implement Queue using Stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/233. Number of Digit On" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/234. Palindrome Linked Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/235. Lowest Common Ancestor of a Binary Search Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/236. Lowest Common Ancestor of a Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/237. Delete Node in a Linked Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/238. Product of Array Except Sel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/239. Sliding Window Maximu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/240. Search a 2D Matrix I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/241. Different Ways to Add Parenthese" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/242. Valid Anagra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/243. Shortest Word Distanc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/244. Shortest Word Distance I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/245. Shortest Word Distance II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/246. Strobogrammatic Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/247. Strobogrammatic Number I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/248. Strobogrammatic Number II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/249. Group Shifted String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/250. Count Univalue Subtree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/251. Flatten 2D Vecto" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/252. Meeting Room" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/253. Meeting Rooms I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/254. Factor Combination" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/255. Verify Preorder Sequence in Binary Search Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/256. Paint Hous" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/257. Binary Tree Path" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/258. Add Digit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/259. 3Sum Smalle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/260. Single Number II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/261. Graph Valid Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/263. Ugly Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/264. Ugly Number I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/265. Paint House I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/266. Palindrome Permutatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/267. Palindrome Permutation I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/268. Missing Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/269. Alien Dictionar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/270. Closest Binary Search Tree Valu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/271. Encode and Decode String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/272. Closest Binary Search Tree Value I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/273. Integer to English Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/274. H-Inde" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/275. H-Index I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/276. Paint Fenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/277. Find the Celebrit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/278. First Bad Versio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/279. Perfect Square" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/280. Wiggle Sor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/281. Zigzag Iterato" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/282. Expression Add Operator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/283. Move Zeroe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/284. Peeking Iterato" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/285. Inorder Successor in BS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/286. Walls and Gate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/287. Find the Duplicate Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/288. Unique Word Abbreviatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/289. Game of Lif" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/290. Word Patter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/291. Word Pattern I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/292. Nim Gam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/293. Flip Gam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/294. Flip Game I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/295. Find Median from Data Strea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/296. Best Meeting Poin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/297. Serialize and Deserialize Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/298. Binary Tree Longest Consecutive Sequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/299. Bulls and Cow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/300. Longest Increasing Subsequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/301. Remove Invalid Parenthese" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/302. Smallest Rectangle Enclosing Black Pixel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/303. Range Sum Query - Immutabl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/304. Range Sum Query 2D - Immutabl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/305. Number of Islands I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/306. Additive Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/307. Range Sum Query - Mutabl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/308. Range Sum Query 2D - Mutabl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/309. Best Time to Buy and Sell Stock with Cooldow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/310. Minimum Height Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/311. Sparse Matrix Multiplicatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/312. Burst Balloon" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/313. Super Ugly Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/314. Binary Tree Vertical Order Traversa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/315. Count of Smaller Numbers After Sel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/316. Remove Duplicate Letter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/317. Shortest Distance from All Building" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/318. Maximum Product of Word Length" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/319. Bulb Switche" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/320. Generalized Abbreviatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/321. Create Maximum Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/322. Coin Chang" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/323. Number of Connected Components in an Undirected Grap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/324. Wiggle Sort I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/325. Maximum Size Subarray Sum Equals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/326. Power of Thre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/327. Count of Range Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/328. Odd Even Linked Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/329. Longest Increasing Path in a Matri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/330. Patching Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/331. Verify Preorder Serialization of a Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/332. Reconstruct Itinerar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/333. Largest BST Subtre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/334. Increasing Triplet Subsequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/335. Self Crossin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/336. Palindrome Pair" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/337. House Robber II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/338. Counting Bit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/339. Nested List Weight Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/340. Longest Substring with At Most K Distinct Character" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/341. Flatten Nested List Iterato" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/342. Power of Fou" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/343. Integer Brea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/344. Reverse Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/345. Reverse Vowels of a Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/346. Moving Average from Data Strea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/347. Top K Frequent Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/348. Design Tic-Tac-To" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/349. Intersection of Two Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/350. Intersection of Two Arrays I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/351. Android Unlock Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/352. Data Stream as Disjoint Interval" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/353. Design Snake Gam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/354. Russian Doll Envelope" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/355. Design Twitte" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/356. Line Reflectio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/357. Count Numbers with Unique Digit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/358. Rearrange String k Distance Apar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/359. Logger Rate Limite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/360. Sort Transformed Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/361. Bomb Enem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/362. Design Hit Counte" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/363. Max Sum of Rectangle No Larger Than" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/364. Nested List Weight Sum I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/365. Water and Jug Proble" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/366. Find Leaves of Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/367. Valid Perfect Squar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/368. Largest Divisible Subse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/369. Plus One Linked Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/370. Range Additio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/371. Sum of Two Integer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/372. Super Po" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/373. Find K Pairs with Smallest Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/374. Guess Number Higher or Lowe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/375. Guess Number Higher or Lower I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/376. Wiggle Subsequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/377. Combination Sum I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/378. Kth Smallest Element in a Sorted Matri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/379. Design Phone Director" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/380. Insert Delete GetRandom O(1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/381. Insert Delete GetRandom O(1) - Duplicates allowe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/382. Linked List Random Nod" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/383. Ransom Not" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/384. Shuffle an Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/385. Mini Parse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/386. Lexicographical Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/387. First Unique Character in a Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/388. Longest Absolute File Pat" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/389. Find the Differenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/390. Elimination Gam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/391. Perfect Rectangl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/392. Is Subsequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/393. UTF-8 Validatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/394. Decode Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/395. Longest Substring with At Least K Repeating Character" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/396. Rotate Functio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/397. Integer Replacemen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/398. Random Pick Inde" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/399. Evaluate Divisio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/400. Nth Digi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/401. Binary Watc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/402. Remove K Digit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/403. Frog Jum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/404. Sum of Left Leave" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/405. Convert a Number to Hexadecima" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/406. Queue Reconstruction by Heigh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/407. Trapping Rain Water I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/408. Valid Word Abbreviatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/409. Longest Palindrom" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/410. Split Array Largest Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/411. Minimum Unique Word Abbreviatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/412. Fizz Buz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/413. Arithmetic Slice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/414. Third Maximum Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/415. Add String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/416. Partition Equal Subset Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/417. Pacific Atlantic Water Flo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/418. Sentence Screen Fittin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/419. Battleships in a Boar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/420. Strong Password Checke" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/421. Maximum XOR of Two Numbers in an Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/422. Valid Word Squar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/423. Reconstruct Original Digits from Englis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/424. Longest Repeating Character Replacemen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/425. Word Square" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/426. Convert Binary Search Tree to Sorted Doubly Linked Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/427. Construct Quad Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/428. Serialize and Deserialize N-ary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/429. N-ary Tree Level Order Traversa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/430. Flatten a Multilevel Doubly Linked Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/431. Encode N-ary Tree to Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/432. All O`one Data Structur" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/433. Minimum Genetic Mutatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/434. Number of Segments in a Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/435. Non-overlapping Interval" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/436. Find Right Interva" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/437. Path Sum II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/438. Find All Anagrams in a Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/439. Ternary Expression Parse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/440. K-th Smallest in Lexicographical Orde" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/441. Arranging Coin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/442. Find All Duplicates in an Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/443. String Compressio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/444. Sequence Reconstructio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/445. Add Two Numbers I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/446. Arithmetic Slices II - Subsequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/447. Number of Boomerang" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/448. Find All Numbers Disappeared in an Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/449. Serialize and Deserialize BS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/450. Delete Node in a BS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/451. Sort Characters By Frequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/452. Minimum Number of Arrows to Burst Balloon" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/453. Minimum Moves to Equal Array Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/454. 4Sum I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/455. Assign Cookie" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/456. 132 Patter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/457. Circular Array Loo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/458. Poor Pig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/459. Repeated Substring Patter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/460. LFU Cach" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/461. Hamming Distanc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/462. Minimum Moves to Equal Array Elements I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/463. Island Perimete" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/464. Can I Wi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/465. Optimal Account Balancin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/466. Count The Repetition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/467. Unique Substrings in Wraparound Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/468. Validate IP Addres" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/469. Convex Polygo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/470. Implement Rand10() Using Rand7(" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/471. Encode String with Shortest Lengt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/472. Concatenated Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/473. Matchsticks to Squar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/474. Ones and Zeroe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/475. Heater" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/476. Number Complemen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/477. Total Hamming Distanc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/478. Generate Random Point in a Circl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/479. Largest Palindrome Produc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/480. Sliding Window Media" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/481. Magical Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/482. License Key Formattin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/483. Smallest Good Bas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/484. Find Permutatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/485. Max Consecutive One" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/486. Predict the Winne" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/487. Max Consecutive Ones I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/488. Zuma Gam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/489. Robot Room Cleane" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/490. The Maz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/491. Increasing Subsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/492. Construct the Rectangl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/493. Reverse Pair" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/494. Target Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/495. Teemo Attackin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/496. Next Greater Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/497. Random Point in Non-overlapping Rectangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/498. Diagonal Travers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/499. The Maze II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/500. Keyboard Ro" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/501. Find Mode in Binary Search Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/502. IP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/503. Next Greater Element I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/504. Base" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/505. The Maze I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/506. Relative Rank" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/507. Perfect Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/508. Most Frequent Subtree Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/513. Find Bottom Left Tree Valu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/514. Freedom Trai" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/515. Find Largest Value in Each Tree Ro" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/516. Longest Palindromic Subsequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/517. Super Washing Machine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/518. Coin Change" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/519. Random Flip Matri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/520. Detect Capita" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/521. Longest Uncommon Subsequence I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/522. Longest Uncommon Subsequence I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/523. Continuous Subarray Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/524. Longest Word in Dictionary through Deletin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/525. Contiguous Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/526. Beautiful Arrangemen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/527. Word Abbreviatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/528. Random Pick with Weigh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/529. Minesweepe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/530. Minimum Absolute Difference in BS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/531. Lonely Pixel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/532. K-diff Pairs in an Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/533. Lonely Pixel I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/535. Encode and Decode TinyUR" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/536. Construct Binary Tree from Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/537. Complex Number Multiplicatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/538. Convert BST to Greater Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/539. Minimum Time Differenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/540. Single Element in a Sorted Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/541. Reverse String I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/542. 01 Matri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/543. Diameter of Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/544. Output Contest Matche" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/545. Boundary of Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/546. Remove Boxe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/547. Friend Circle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/548. Split Array with Equal Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/549. Binary Tree Longest Consecutive Sequence I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/551. Student Attendance Record" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/552. Student Attendance Record I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/553. Optimal Divisio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/554. Brick Wal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/555. Split Concatenated String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/556. Next Greater Element II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/557. Reverse Words in a String II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/558. Quad Tree Intersectio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/559. Maximum Depth of N-ary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/560. Subarray Sum Equals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/561. Array Partition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/562. Longest Line of Consecutive One in Matri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/563. Binary Tree Til" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/564. Find the Closest Palindrom" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/565. Array Nestin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/566. Reshape the Matri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/567. Permutation in Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/568. Maximum Vacation Day" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/572. Subtree of Another Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/573. Squirrel Simulatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/575. Distribute Candie" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/576. Out of Boundary Path" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/581. Shortest Unsorted Continuous Subarra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/582. Kill Proces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/583. Delete Operation for Two String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/587. Erect the Fenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/588. Design In-Memory File Syste" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/589. N-ary Tree Preorder Traversa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/590. N-ary Tree Postorder Traversa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/591. Tag Validato" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/592. Fraction Addition and Subtractio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/593. Valid Squar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/594. Longest Harmonious Subsequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/598. Range Addition I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/599. Minimum Index Sum of Two List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/600. Non-negative Integers without Consecutive One" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/604. Design Compressed String Iterato" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/605. Can Place Flower" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/606. Construct String from Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/609. Find Duplicate File in Syste" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/611. Valid Triangle Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/616. Add Bold Tag in Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/617. Merge Two Binary Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/621. Task Schedule" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/622. Design Circular Queu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/623. Add One Row to Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/624. Maximum Distance in Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/625. Minimum Factorizatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/628. Maximum Product of Three Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/629. K Inverse Pairs Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/630. Course Schedule II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/631. Design Excel Sum Formul" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/632. Smallest Rang" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/633. Sum of Square Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/634. Find the Derangement of An Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/635. Design Log Storage Syste" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/636. Exclusive Time of Function" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/637. Average of Levels in Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/638. Shopping Offer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/639. Decode Ways I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/640. Solve the Equatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/641. Design Circular Dequ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/642. Design Search Autocomplete Syste" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/643. Maximum Average Subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/644. Maximum Average Subarray I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/645. Set Mismatc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/646. Maximum Length of Pair Chai" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/647. Palindromic Substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/648. Replace Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/649. Dota2 Senat" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/650. 2 Keys Keyboar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/651. 4 Keys Keyboar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/652. Find Duplicate Subtree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/653. Two Sum IV - Input is a BS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/654. Maximum Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/655. Print Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/656. Coin Pat" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/657. Robot Return to Origi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/658. Find K Closest Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/659. Split Array into Consecutive Subsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/660. Remove" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/661. Image Smoothe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/662. Maximum Width of Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/663. Equal Tree Partitio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/664. Strange Printe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/665. Non-decreasing Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/666. Path Sum I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/667. Beautiful Arrangement I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/668. Kth Smallest Number in Multiplication Tabl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/669. Trim a Binary Search Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/670. Maximum Swa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/671. Second Minimum Node In a Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/672. Bulb Switcher I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/673. Number of Longest Increasing Subsequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/674. Longest Continuous Increasing Subsequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/675. Cut Off Trees for Golf Even" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/676. Implement Magic Dictionar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/677. Map Sum Pair" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/678. Valid Parenthesis Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/679. 24 Gam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/680. Valid Palindrome I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/681. Next Closest Tim" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/682. Baseball Gam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/683. K Empty Slot" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/684. Redundant Connectio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/685. Redundant Connection I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/686. Repeated String Matc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/687. Longest Univalue Pat" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/688. Knight Probability in Chessboar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/689. Maximum Sum of 3 Non-Overlapping Subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/690. Employee Importanc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/691. Stickers to Spell Wor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/692. Top K Frequent Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/693. Binary Number with Alternating Bit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/694. Number of Distinct Island" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/695. Max Area of Islan" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/696. Count Binary Substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/697. Degree of an Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/698. Partition to K Equal Sum Subset" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/699. Falling Square" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/700. Search in a Binary Search Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/701. Insert into a Binary Search Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/702. Search in a Sorted Array of Unknown Siz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/703. Kth Largest Element in a Strea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/704. Binary Searc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/705. Design HashSe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/706. Design HashMa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/707. Design Linked Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/708. Insert into a Cyclic Sorted Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/709. To Lower Cas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/710. Random Pick with Blacklis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/711. Number of Distinct Islands I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/712. Minimum ASCII Delete Sum for Two String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/713. Subarray Product Less Than" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/714. Best Time to Buy and Sell Stock with Transaction Fe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/715. Range Modul" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/716. Max Stac" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/717. 1-bit and 2-bit Character" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/718. Maximum Length of Repeated Subarra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/719. Find K-th Smallest Pair Distanc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/720. Longest Word in Dictionar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/721. Accounts Merg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/722. Remove Comment" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/723. Candy Crus" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/724. Find Pivot Inde" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/725. Split Linked List in Part" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/726. Number of Atom" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/727. Minimum Window Subsequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/728. Self Dividing Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/729. My Calendar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/730. Count Different Palindromic Subsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/731. My Calendar I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/732. My Calendar II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/733. Flood Fil" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/734. Sentence Similarit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/735. Asteroid Collisio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/736. Parse Lisp Expressio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/737. Sentence Similarity I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/738. Monotone Increasing Digit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/739. Daily Temperature" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/740. Delete and Ear" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/741. Cherry Picku" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/742. Closest Leaf in a Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/743. Network Delay Tim" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/744. Find Smallest Letter Greater Than Targe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/745. Prefix and Suffix Searc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/746. Min Cost Climbing Stair" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/747. Largest Number At Least Twice of Other" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/748. Shortest Completing Wor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/749. Contain Viru" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/750. Number Of Corner Rectangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/751. IP to CID" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/752. Open the Loc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/753. Cracking the Saf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/754. Reach a Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/755. Pour Wate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/756. Pyramid Transition Matri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/757. Set Intersection Size At Least Tw" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/758. Bold Words in Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/759. Employee Free Tim" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/760. Find Anagram Mapping" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/761. Special Binary Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/762. Prime Number of Set Bits in Binary Representatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/763. Partition Label" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/764. Largest Plus Sig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/765. Couples Holding Hand" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/766. Toeplitz Matri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/767. Reorganize Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/768. Max Chunks To Make Sorted I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/769. Max Chunks To Make Sorte" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/770. Basic Calculator I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/771. Jewels and Stone" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/772. Basic Calculator II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/773. Sliding Puzzl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/774. Minimize Max Distance to Gas Statio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/775. Global and Local Inversion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/776. Split BS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/777. Swap Adjacent in LR Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/778. Swim in Rising Wate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/779. K-th Symbol in Gramma" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/780. Reaching Point" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/781. Rabbits in Fores" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/782. Transform to Chessboar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/783. Minimum Distance Between BST Node" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/784. Letter Case Permutatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/785. Is Graph Bipartite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/786. K-th Smallest Prime Fractio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/787. Cheapest Flights Within K Stop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/788. Rotated Digit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/789. Escape The Ghost" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/790. Domino and Tromino Tilin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/791. Custom Sort Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/792. Number of Matching Subsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/793. Preimage Size of Factorial Zeroes Functio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/794. Valid Tic-Tac-Toe Stat" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/795. Number of Subarrays with Bounded Maximu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/796. Rotate Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/797. All Paths From Source to Targe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/798. Smallest Rotation with Highest Scor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/799. Champagne Towe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/800. Similar RGB Colo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/801. Minimum Swaps To Make Sequences Increasin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/802. Find Eventual Safe State" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/803. Bricks Falling When Hi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/804. Unique Morse Code Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/805. Split Array With Same Averag" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/806. Number of Lines To Write Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/807. Max Increase to Keep City Skylin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/808. Soup Serving" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/809. Expressive Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/810. Chalkboard XOR Gam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/811. Subdomain Visit Coun" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/812. Largest Triangle Are" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/813. Largest Sum of Average" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/814. Binary Tree Prunin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/815. Bus Route" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/816. Ambiguous Coordinate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/817. Linked List Component" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/818. Race Ca" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/819. Most Common Wor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/820. Short Encoding of Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/821. Shortest Distance to a Characte" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/822. Card Flipping Gam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/823. Binary Trees With Factor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/824. Goat Lati" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/825. Friends Of Appropriate Age" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/826. Most Profit Assigning Wor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/827. Making A Large Islan" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/828. Unique Letter Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/829. Consecutive Numbers Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/830. Positions of Large Group" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/831. Masking Personal Informatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/832. Flipping an Imag" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/833. Find And Replace in Strin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/834. Sum of Distances in Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/835. Image Overla" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/836. Rectangle Overla" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/837. New 21 Gam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/838. Push Dominoe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/839. Similar String Group" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/840. Magic Squares In Gri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/841. Keys and Room" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/842. Split Array into Fibonacci Sequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/843. Guess the Wor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/844. Backspace String Compar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/845. Longest Mountain in Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/846. Hand of Straight" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/847. Shortest Path Visiting All Node" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/848. Shifting Letter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/849. Maximize Distance to Closest Perso" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/850. Rectangle Area I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/851. Loud and Ric" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/852. Peak Index in a Mountain Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/853. Car Flee" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/854. K-Similar String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/855. Exam Roo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/856. Score of Parenthese" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/857. Minimum Cost to Hire K Worker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/858. Mirror Reflectio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/859. Buddy String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/860. Lemonade Chang" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/861. Score After Flipping Matri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/862. Shortest Subarray with Sum at Least" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/863. All Nodes Distance K in Binary Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/864. Shortest Path to Get All Key" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/865. Smallest Subtree with all the Deepest Node" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/866. Prime Palindrom" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/867. Transpose Matri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/868. Binary Ga" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/869. Reordered Power of" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/870. Advantage Shuffl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/871. Minimum Number of Refueling Stop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/872. Leaf-Similar Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/873. Length of Longest Fibonacci Subsequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/874. Walking Robot Simulatio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/875. Koko Eating Banana" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/876. Middle of the Linked Lis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/877. Stone Gam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/878. Nth Magical Numbe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/879. Profitable Scheme" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/880. Decoded String at Inde" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/881. Boats to Save Peopl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/882. Reachable Nodes In Subdivided Grap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/883. Projection Area of 3D Shape" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/884. Uncommon Words from Two Sentence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/885. Spiral Matrix II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/886. Possible Bipartitio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/887. Super Egg Dro" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/888. Fair Candy Swa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/889. Construct Binary Tree from Preorder and Postorder Traversa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/890. Find and Replace Patter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/891. Sum of Subsequence Width" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/892. Surface Area of 3D Shape" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/893. Groups of Special-Equivalent String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/894. All Possible Full Binary Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/895. Maximum Frequency Stac" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/896. Monotonic Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/897. Increasing Order Search Tre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/898. Bitwise ORs of Subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/899. Orderly Queu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/900. RLE Iterato" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/901. Online Stock Spa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/902. Numbers At Most N Given Digit Se" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/903. Valid Permutations for DI Sequenc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/904. Fruit Into Basket" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/905. Sort Array By Parit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/906. Super Palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/907. Sum of Subarray Minimum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/908. Smallest Range" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/909. Snakes and Ladder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/910. Smallest Range I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/911. Online Electio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/913. Cat and Mous" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/914. X of a Kind in a Deck of Card" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/915. Partition Array into Disjoint Interval" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/916. Word Subset" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/917. Reverse Only Letter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/918. Maximum Sum Circular Subarra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/919. Complete Binary Tree Inserte" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/920. Number of Music Playlist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/921. Minimum Add to Make Parentheses Vali" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/922. Sort Array By Parity I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/923. 3Sum With Multiplicit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/924. Minimize Malware Sprea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/925. Long Pressed Nam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/926. Flip String to Monotone Increasin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/927. Three Equal Part" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/928. Minimize Malware Spread I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/929. Unique Email Addresse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/930. Binary Subarrays With Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/931. Minimum Falling Path Su" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/932. Beautiful Arra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/933. Number of Recent Call" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/934. Shortest Bridg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/935. Knight Diale" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode_oj/936. Stamping The Sequenc" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Python 3.7 (1) interpreter library" level="application" />
   </component>
 </module>
-
