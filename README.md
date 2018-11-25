@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-11-10 11:20:09, I have solved **9** / **883** problems while **139** are still locked.
+Until 2018-11-25 16:55:55, I have solved **10** / **895** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 0
+2. Python: 1
 3. C++: 0
 4. Java: 9
 
@@ -444,7 +444,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) |Medium|To Do|To Do|To Do|To Do|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) |Easy|To Do|To Do|To Do|To Do|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) |Easy|To Do|To Do|To Do|To Do|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) |Easy|To Do|[Python](https://github.com/shaojunying/leetcode-record/tree/master/src/leetcode_oj/455.%20Assign%20Cookie/solution.py)|To Do|To Do|
 |456|[132 Pattern](https://leetcode.com/problems/132-pattern/description/) |Medium|To Do|To Do|To Do|To Do|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/description/) |Medium|To Do|To Do|To Do|To Do|
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -896,3 +896,15 @@ Note: :lock: means you need to buy a book from LeetCode
 |934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/) |Medium|To Do|To Do|To Do|To Do|
 |935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/description/) |Medium|To Do|To Do|To Do|To Do|
 |936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/description/) |Hard|To Do|To Do|To Do|To Do|
+|937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/description/) |Easy|To Do|To Do|To Do|To Do|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) |Medium|To Do|To Do|To Do|To Do|
+|939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/) |Medium|To Do|To Do|To Do|To Do|
+|940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/) |Hard|To Do|To Do|To Do|To Do|
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) |Easy|To Do|To Do|To Do|To Do|
+|942|[DI String Match](https://leetcode.com/problems/di-string-match/description/) |Easy|To Do|To Do|To Do|To Do|
+|943|[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/description/) |Hard|To Do|To Do|To Do|To Do|
+|944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/) |Easy|To Do|To Do|To Do|To Do|
+|945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/) |Medium|To Do|To Do|To Do|To Do|
+|946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/) |Medium|To Do|To Do|To Do|To Do|
+|947|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) |Medium|To Do|To Do|To Do|To Do|
+|948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/) |Medium|To Do|To Do|To Do|To Do|
