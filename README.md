@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-11-25 16:55:55, I have solved **10** / **895** problems while **139** are still locked.
+Until 2018-12-16 01:30:50, I have solved **13** / **903** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 1
+2. Python: 3
 3. C++: 0
-4. Java: 9
+4. Java: 10
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -76,13 +76,13 @@ Note: :lock: means you need to buy a book from LeetCode
 |061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|To Do|To Do|To Do|To Do|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|[Python](https://github.com/shaojunying/leetcode-record/tree/master/src/leetcode_oj/064.%20Minimum%20Path%20Su/main.py)|To Do|To Do|
 |065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|To Do|To Do|To Do|To Do|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/shaojunying/leetcode-record/tree/master/src/leetcode_oj/066.%20Plus%20On/º”“ª.java)|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|To Do|To Do|To Do|To Do|
 |068|[Text Justification](https://leetcode.com/problems/text-justification/description/) |Hard|To Do|To Do|To Do|To Do|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|To Do|To Do|To Do|To Do|
-|070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|To Do|To Do|To Do|To Do|
+|070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/shaojunying/leetcode-record/tree/master/src/leetcode_oj/070.%20Climbing%20Stair/solution.java)|
 |071|[Simplify Path](https://leetcode.com/problems/simplify-path/description/) |Medium|To Do|To Do|To Do|To Do|
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|To Do|To Do|To Do|To Do|
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -132,7 +132,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |Easy|To Do|To Do|To Do|To Do|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) |Easy|To Do|To Do|To Do|To Do|
-|120|[Triangle](https://leetcode.com/problems/triangle/description/) |Medium|To Do|To Do|To Do|To Do|
+|120|[Triangle](https://leetcode.com/problems/triangle/description/) |Medium|To Do|[Python](https://github.com/shaojunying/leetcode-record/tree/master/src/leetcode_oj/120.%20Triangl/main.py)|To Do|To Do|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |Easy|To Do|To Do|To Do|To Do|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy|To Do|To Do|To Do|To Do|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -908,3 +908,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/) |Medium|To Do|To Do|To Do|To Do|
 |947|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) |Medium|To Do|To Do|To Do|To Do|
 |948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/) |Medium|To Do|To Do|To Do|To Do|
+|949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/) |Easy|To Do|To Do|To Do|To Do|
+|950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/) |Medium|To Do|To Do|To Do|To Do|
+|951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) |Medium|To Do|To Do|To Do|To Do|
+|952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/description/) |Hard|To Do|To Do|To Do|To Do|
+|953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/) |Easy|To Do|To Do|To Do|To Do|
+|954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
+|955|[Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|956|[Tallest Billboard](https://leetcode.com/problems/tallest-billboard/description/) |Hard|To Do|To Do|To Do|To Do|
