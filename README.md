@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-12-17 22:09:18, I have solved **19** / **907** problems while **139** are still locked.
+Until 2018-12-17 22:34:27, I have solved **20** / **907** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 13
+2. Python: 14
 3. C++: 0
 4. Java: 11
 
@@ -209,7 +209,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) |Medium|To Do|To Do|To Do|To Do|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/description/) |Hard|To Do|To Do|To Do|To Do|
-|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) |Medium|To Do|[Python](https://github.com/shaojunying/leetcode-record/tree/master/src/leetcode_oj/213.%20House%20Robber%20I/213.py)|To Do|To Do|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) |Hard|To Do|To Do|To Do|To Do|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |Medium|To Do|To Do|To Do|To Do|
