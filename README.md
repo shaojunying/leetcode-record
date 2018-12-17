@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-12-17 20:44:27, I have solved **16** / **907** problems while **139** are still locked.
+Until 2018-12-17 21:15:01, I have solved **18** / **907** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 9
+2. Python: 11
 3. C++: 0
 4. Java: 11
 
@@ -74,8 +74,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|To Do|To Do|To Do|To Do|
-|062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|To Do|To Do|To Do|To Do|
-|063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|To Do|[Python](https://github.com/shaojunying/leetcode-record/tree/master/src/leetcode_oj/062.%20Unique%20Path/062.py)|To Do|To Do|
+|063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|To Do|[Python](https://github.com/shaojunying/leetcode-record/tree/master/src/leetcode_oj/063.%20Unique%20Paths%20I/063.py)|To Do|To Do|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|[Python](https://github.com/shaojunying/leetcode-record/tree/master/src/leetcode_oj/064.%20Minimum%20Path%20Su/main.py)|To Do|To Do|
 |065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|To Do|To Do|To Do|To Do|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/shaojunying/leetcode-record/tree/master/src/leetcode_oj/066.%20Plus%20On/º”“ª.java)|
