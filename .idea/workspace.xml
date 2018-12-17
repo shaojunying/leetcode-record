@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b23215cf-fb50-4661-a49f-2d8dafae4bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square/main2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/091. Decode Way/091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/091. Decode Way/0912.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,13 +16,14 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/leetcode_record$solution.coverage" NAME="solution Coverage Results" MODIFIED="1543136079075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/leetcode_oj/455. Assign Cookie" />
     <SUITE FILE_PATH="coverage/leetcode_record$.coverage" NAME="斐波那契数列 Coverage Results" MODIFIED="1543138523195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/leetcode_record$readme.coverage" NAME="readme Coverage Results" MODIFIED="1544941555010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_record$readme.coverage" NAME="readme Coverage Results" MODIFIED="1545050653435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_record$main.coverage" NAME="main Coverage Results" MODIFIED="1544890799833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/leetcode_oj/120. Triangl" />
     <SUITE FILE_PATH="coverage/leetcode_record$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1544925375129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/leetcode_oj/343. Integer Brea" />
     <SUITE FILE_PATH="coverage/leetcode_record$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1544894574563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/leetcode_oj/064. Minimum Path Su" />
     <SUITE FILE_PATH="coverage/leetcode_record$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1544925186730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/leetcode_oj/343. Integer Brea" />
     <SUITE FILE_PATH="coverage/leetcode_record$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1544938269195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square" />
     <SUITE FILE_PATH="coverage/leetcode_record$main2__1_.coverage" NAME="main2 (1) Coverage Results" MODIFIED="1544941399263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square" />
+    <SUITE FILE_PATH="coverage/leetcode_record$0912.coverage" NAME="0912 Coverage Results" MODIFIED="1545049469561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/leetcode_oj/091. Decode Way" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -72,17 +70,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+            <state relative-caret-position="209">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode_oj/091. Decode Way/091.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="323">
+              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode_oj/091. Decode Way/0912.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -96,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square/main2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -107,8 +123,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Python Script" />
         <option value="Class" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -156,6 +172,10 @@
         <option value="$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square/main.py" />
         <option value="$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square/main2.py" />
         <option value="$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square/Solution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode_oj/091. Decode Way/Soluation.java" />
+        <option value="$PROJECT_DIR$/src/leetcode_oj/091. Decode Way/Solution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode_oj/091. Decode Way/0912.py" />
+        <option value="$PROJECT_DIR$/src/leetcode_oj/091. Decode Way/091.py" />
       </list>
     </option>
   </component>
@@ -163,8 +183,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="605" />
-    <option name="y" value="181" />
+    <option name="x" value="638" />
+    <option name="y" value="47" />
     <option name="width" value="1230" />
     <option name="height" value="1050" />
   </component>
@@ -216,6 +236,13 @@
               <item name="leetcode-record" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode_oj" type="462c0819:PsiDirectoryNode" />
+              <item name="091. Decode Way" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-record" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-record" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_oj" type="462c0819:PsiDirectoryNode" />
               <item name="279. Perfect Square" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -228,7 +255,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544941550798" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545050659359" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - hk sar baomin inc/课件/大三上/xml/XML_Samples/XML_DOM" />
@@ -251,12 +278,27 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.readme">
-    <configuration name="加一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="加一" />
+    <configuration name="0912" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/leetcode_oj/091. Decode Way" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/leetcode_oj/091. Decode Way/0912.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="leetcode" />
@@ -391,17 +433,18 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.加一" />
       <item itemvalue="Python.main2 (1)" />
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.main (2)" />
       <item itemvalue="Python.main (3)" />
       <item itemvalue="Python.main2" />
       <item itemvalue="Python.readme" />
+      <item itemvalue="Python.0912" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.readme" />
+        <item itemvalue="Python.0912" />
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main2" />
         <item itemvalue="Python.main (2)" />
@@ -435,12 +478,12 @@
       <workItem from="1544894067872" duration="37000" />
       <workItem from="1544894126783" duration="34000" />
       <workItem from="1544894171173" duration="7929000" />
-      <workItem from="1544940915072" duration="513000" />
+      <workItem from="1544940915072" duration="8284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46677000" />
+    <option name="totallyTimeSpent" value="54448000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -451,7 +494,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5009901" side_tool="true" weight="0.24396783" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4990099" visible="true" weight="0.28016084" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4990099" weight="0.28016084" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3299566" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
@@ -460,7 +503,7 @@
       <window_info anchor="bottom" id="Database Changes" order="4" weight="0.32960895" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49932975" visible="true" weight="0.43063584" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49932975" weight="0.23988439" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.22976878" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -489,7 +532,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5009901" side_tool="true" weight="0.24396783" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4990099" visible="true" weight="0.40972972" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4990099" visible="true" weight="0.28016084" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3299566" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
@@ -498,7 +541,7 @@
       <window_info anchor="bottom" id="Database Changes" order="4" weight="0.32960895" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49932975" visible="true" weight="0.2584746" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49932975" weight="0.20467836" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.22976878" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -664,27 +707,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode_oj/343. Integer Brea/main.py" />
     <entry file="file://$PROJECT_DIR$/src/leetcode_oj/343. Integer Brea/main2.py" />
-    <entry file="file://$PROJECT_DIR$/readme.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square/main2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/readme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode_oj/279. Perfect Square/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode_oj/091. Decode Way/Decode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode_oj/091. Decode Way/0912.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode_oj/091. Decode Way/091.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
         </state>
       </provider>
     </entry>
