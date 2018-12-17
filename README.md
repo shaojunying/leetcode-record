@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-12-17 21:15:01, I have solved **18** / **907** problems while **139** are still locked.
+Until 2018-12-17 22:09:18, I have solved **19** / **907** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 11
+2. Python: 13
 3. C++: 0
 4. Java: 11
 
@@ -194,7 +194,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|To Do|To Do|To Do|To Do|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|To Do|To Do|To Do|To Do|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|To Do|To Do|To Do|To Do|
-|198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|To Do|To Do|To Do|To Do|
+|198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|To Do|[Python](https://github.com/shaojunying/leetcode-record/tree/master/src/leetcode_oj/198.%20House%20Robbe/1981.py)|To Do|To Do|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) |Medium|To Do|To Do|To Do|To Do|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) |Medium|To Do|To Do|To Do|To Do|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/) |Medium|To Do|To Do|To Do|To Do|
