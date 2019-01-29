@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b23215cf-fb50-4661-a49f-2d8dafae4bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/121. Best Time to Buy and Sell Stoc/121.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/309. Best Time to Buy and Sell Stock with Cooldow/309.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/309. Best Time to Buy and Sell Stock with Cooldow/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/322. Coin Chang/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/337. House Robber II/3371.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/377. Combination Sum I/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/416. Partition Equal Subset Su/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/474. Ones and Zeroe/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8d2525d0-bbf2-4b55-adb6-1f1de650d924.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8d2525d0-bbf2-4b55-adb6-1f1de650d924.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/139. Word Brea/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/300. Longest Increasing Subsequenc/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_oj/300. Longest Increasing Subsequenc/main2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,17 +72,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode_oj/139. Word Brea/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode_oj/300. Longest Increasing Subsequenc/index.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+              <caret line="6" column="16" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode_oj/474. Ones and Zeroe/index.py">
+        <entry file="file://$PROJECT_DIR$/src/leetcode_oj/300. Longest Increasing Subsequenc/main2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            <state relative-caret-position="532">
+              <caret line="28" column="24" lean-forward="true" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -135,7 +146,6 @@
         <option value="$PROJECT_DIR$/src/三数之和.java" />
         <option value="$PROJECT_DIR$/src/015. 3Su/三数.java" />
         <option value="$PROJECT_DIR$/src/leetcode_oj/015. 3Su/三数之和.java" />
-        <option value="$PROJECT_DIR$/readme.py" />
         <option value="$PROJECT_DIR$/src/leetcode_oj/455. Assign Cookie/assignCookie.java" />
         <option value="$PROJECT_DIR$/src/leetcode_oj/455. Assign Cookie/solution.py" />
         <option value="$PROJECT_DIR$/src/斐波那契数列.py" />
@@ -168,6 +178,10 @@
         <option value="$PROJECT_DIR$/src/leetcode_oj/377. Combination Sum I/test.py" />
         <option value="$PROJECT_DIR$/src/leetcode_oj/474. Ones and Zeroe/indexz.py" />
         <option value="$PROJECT_DIR$/src/leetcode_oj/474. Ones and Zeroe/index.py" />
+        <option value="$PROJECT_DIR$/readme.py" />
+        <option value="$PROJECT_DIR$/src/leetcode_oj/139. Word Brea/test.py" />
+        <option value="$PROJECT_DIR$/src/leetcode_oj/300. Longest Increasing Subsequenc/index.py" />
+        <option value="$PROJECT_DIR$/src/leetcode_oj/300. Longest Increasing Subsequenc/main2.py" />
       </list>
     </option>
   </component>
@@ -175,10 +189,10 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="397" />
-    <option name="y" value="-37" />
+    <option name="x" value="370" />
+    <option name="y" value="-20" />
     <option name="width" value="1940" />
-    <option name="height" value="1103" />
+    <option name="height" value="1104" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -228,6 +242,13 @@
               <item name="leetcode-record" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode_oj" type="462c0819:PsiDirectoryNode" />
+              <item name="300. Longest Increasing Subsequenc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-record" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-record" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_oj" type="462c0819:PsiDirectoryNode" />
               <item name="309. Best Time to Buy and Sell Stock with Cooldow" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -236,13 +257,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode_oj" type="462c0819:PsiDirectoryNode" />
               <item name="337. House Robber II" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-record" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode_oj" type="462c0819:PsiDirectoryNode" />
-              <item name="474. Ones and Zeroe" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,7 +268,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548672212172" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548731933482" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -276,7 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.readme">
+  <component name="RunManager">
     <configuration name="0912" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -431,24 +445,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.main2 (1)" />
-      <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.main (3)" />
-      <item itemvalue="Python.main2" />
-      <item itemvalue="Python.readme" />
-      <item itemvalue="Python.0912" />
-      <item itemvalue="Python.test1" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.readme" />
-        <item itemvalue="Python.test1" />
-        <item itemvalue="Python.0912" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main2" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -484,23 +480,23 @@
       <workItem from="1546493514822" duration="32000" />
       <workItem from="1547828372599" duration="598000" />
       <workItem from="1547913855899" duration="21000" />
-      <workItem from="1548494386359" duration="17613000" />
+      <workItem from="1548494386359" duration="25617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90069000" />
+    <option name="totallyTimeSpent" value="98073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info id="soapUI Navigator" />
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5009901" side_tool="true" weight="0.24396783" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4990099" weight="0.24577373" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4990099" visible="true" weight="0.2454427" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3299566" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
@@ -509,7 +505,7 @@
       <window_info anchor="bottom" id="Database Changes" order="4" weight="0.32960895" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49932975" weight="0.33893558" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49932975" weight="0.32352942" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.22976878" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -533,13 +529,14 @@
       <window_info anchor="right" id="JuliaSciView" order="12" />
     </layout>
     <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.5009901" side_tool="true" weight="0.24396783" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4990099" visible="true" weight="0.24577373" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="soapUI Navigator" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5009901" side_tool="true" weight="0.24396783" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.4990099" visible="true" weight="0.24577373" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3299566" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.22398844" />
@@ -547,7 +544,7 @@
       <window_info anchor="bottom" id="Database Changes" order="4" weight="0.32960895" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49932975" weight="0.33893558" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49932975" weight="0.32352942" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.22976878" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -586,7 +583,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/find_pivot_index.java" />
     <entry file="file://$PROJECT_DIR$/src/至少是其他数字两倍的最大数.java" />
     <entry file="file://$PROJECT_DIR$/src/加一.java" />
@@ -788,15 +784,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        <state relative-caret-position="190">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode_oj/474. Ones and Zeroe/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        <state relative-caret-position="171">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode_oj/139. Word Brea/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode_oj/300. Longest Increasing Subsequenc/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="16" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode_oj/300. Longest Increasing Subsequenc/main2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="24" lean-forward="true" selection-end-line="29" />
         </state>
       </provider>
     </entry>
